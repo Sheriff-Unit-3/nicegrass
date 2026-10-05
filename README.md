@@ -23,6 +23,6 @@ Removes dirt from sides of MTG's grass. Adds artificial turf.
 
 See [REUSE.toml](/REUSE.toml) for complete licensing details.
 
-Code: [MIT](/LICENSES/MIT.txt)
-Media: [MIT](/LICENSES/MIT.txt)
-Everything else: [CC0](/LICENSES/CC0-1.0.txt)
+* Code: [MIT](/LICENSES/MIT.txt)
+* Media: [MIT](/LICENSES/MIT.txt)
+* Everything else: [CC0](/LICENSES/CC0-1.0.txt)
