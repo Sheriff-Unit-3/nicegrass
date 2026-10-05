@@ -1,4 +1,9 @@
+globals = {"nicegrass"}
+
 read_globals = {
 	-- Luanti
-	"core"
+	"core",
+
+	-- Dependencies
+	"xcompat", "default"
 }

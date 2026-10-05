@@ -1,0 +1,13 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "title": "Nice Grass",
+  "tags": ["building", "decorative", "environment", "mtg", "oneofakind__original", "technology"],
+  "type": "MOD",
+  "dev_state": "ACTIVELY_DEVELOPED",
+  "ai_disclosure": "NONE",
+  "license": "MIT",
+  "media_license": "MIT",
+  "repo": "https://github.com/sheriff-unit-3/nicegrass",
+  "issue_tracker": "https://github.com/sheriff-unit-3/nicegrass/issues/new/choose/",
+  "short_description": "Makes all grass in Minetest Game look better."
+}

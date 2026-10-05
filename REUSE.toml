@@ -1,8 +1,9 @@
 version = 1
 
+# Code
 [[annotations]]
 path = [
-  "init.lua",
+  "*.lua",
   "README.md",
 ]
 SPDX-FileCopyrightText = [
@@ -11,11 +12,25 @@ SPDX-FileCopyrightText = [
 ]
 SPDX-License-Identifier = "MIT"
 
+# Media
 [[annotations]]
 path = [
-  ".github/**",
-  ".luacheckrc",
+  "*/*.glb",
+  "*/*.png",
+  "*/.dev/**",
+]
+SPDX-FileCopyrightText = [
+  "2026 Sheriff U3"
+]
+SPDX-License-Identifier = "MIT"
+
+# Config files
+[[annotations]]
+path = [
+  ".*/**",
+  ".*",
   "mod.conf",
+  "settingtypes.txt",
 ]
 SPDX-FileCopyrightText = "NONE"
 SPDX-License-Identifier = "CC0-1.0"

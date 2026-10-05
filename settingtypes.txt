@@ -1,0 +1,5 @@
+# Enables artificial turf nodes
+nicegrass.artificial_turf (Artificial Turf) bool true
+
+# Remove dirt from sides of grass
+nicegrass.no_dirt (No Dirt on Grass Node Sides) bool true
