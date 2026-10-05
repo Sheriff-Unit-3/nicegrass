@@ -5,6 +5,7 @@ version = 1
 path = [
   "*.lua",
   "README.md",
+  "ROADMAP.md",
 ]
 SPDX-FileCopyrightText = [
   "2026 Sheriff U3",
