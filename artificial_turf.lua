@@ -1,16 +1,16 @@
 local mod = nicegrass
 local S = mod.S
 local tiles = {
-	"default_grass.png^[colorize:#00ff00:20",
+	"default_grass.png^[colorize:#00ff00:15",
 	"default_dirt.png",
-	{ name = "default_dirt.png^(default_grass_side.png^[colorize:#00ff00:20)", tileable_vertical = false },
+	{ name = "default_dirt.png^(default_grass_side.png^[colorize:#00ff00:15)", tileable_vertical = false },
 }
 
 if mod.settings.no_dirt then
 	tiles = {
-		"default_grass.png^[colorize:#00ff00:20",
+		"default_grass.png^[colorize:#00ff00:15",
 		"default_dirt.png",
-		{ name = "default_grass.png^[colorize:#00ff00:20", tileable_vertical = false },
+		{ name = "default_grass.png^[colorize:#00ff00:15", tileable_vertical = false },
 	}
 end
 
